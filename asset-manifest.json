@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feathersmp/static/css/main.d629d9c0.css",
+    "main.js": "/feathersmp/static/js/main.933804f2.js",
+    "static/js/453.8016598e.chunk.js": "/feathersmp/static/js/453.8016598e.chunk.js",
+    "index.html": "/feathersmp/index.html",
+    "main.d629d9c0.css.map": "/feathersmp/static/css/main.d629d9c0.css.map",
+    "main.933804f2.js.map": "/feathersmp/static/js/main.933804f2.js.map",
+    "453.8016598e.chunk.js.map": "/feathersmp/static/js/453.8016598e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d629d9c0.css",
+    "static/js/main.933804f2.js"
+  ]
+}
