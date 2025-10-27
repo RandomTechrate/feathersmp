@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  color: white;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  flex: 1;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.player-head {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+.vote-section {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
