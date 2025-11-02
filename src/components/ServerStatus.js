@@ -99,7 +99,7 @@ const ServerStatus = () => {
             {renderStatus(javaStatus, loadingJava, 'Java Edition', 'https://api.mcstatus.io/v2/widget/java/feathersmp.uk', 'feathersmp.uk')}
           </Col>
           <Col md={6}>
-            {renderStatus(bedrockStatus, loadingBedrock, 'Bedrock Edition', 'https://api.mcstatus.io/v2/widget/bedrock/feathersmp.uk:15005', 'feathersmp.uk:15005')}
+            {renderStatus(bedrockStatus, loadingBedrock, 'Bedrock Edition', 'https://api.mcstatus.io/v2/widget/bedrock/feathersmp.uk:19132', 'feathersmp.uk:19132')}
           </Col>
         </Row>
       </Container>
