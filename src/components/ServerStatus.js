@@ -28,7 +28,7 @@ const ServerStatus = () => {
 
     const fetchBedrockStatus = async () => {
       try {
-        const response = await axios.get('https://api.mcstatus.io/v2/status/bedrock/feathersmp.uk:15005');
+        const response = await axios.get('https://api.mcstatus.io/v2/status/bedrock/feathersmp.uk:19132');
         setBedrockStatus(response.data);
       } catch (error) {
         console.error('Error fetching Bedrock server status:', error);
